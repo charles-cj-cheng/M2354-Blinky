@@ -1,0 +1,3 @@
+Create a new file for git-gui interface testing. 
+Testing git commit --amend
+
